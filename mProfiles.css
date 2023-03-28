@@ -1,0 +1,129 @@
+.mProfile{
+    border: 1px solid rgb(0, 152, 163);
+    border-radius: 10px;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 5%;
+    text-align: center;
+    min-width: 600px;
+    margin-bottom: 5%;
+}
+
+.mLargeFont{
+    font-size: 50;
+}
+
+.MedFont {
+    font-size: 40;
+}
+
+.redTxtMobile{
+    font-size: 50px;
+    color:rgb(219, 51, 51)
+  }
+  
+
+.commentFont {
+    font-size: 30;
+}
+
+.smallFont {
+    font-size: 30;
+}
+
+.updateDeetsBtn{
+    font-size: 30;
+    width: 25%;
+    height: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: none;
+    background-color: rgb(145, 145, 145);
+    color : white
+}
+
+.mUpdateInput{
+    max-width: 80%;
+    margin-left: 10%;
+    height: 100px;
+    font-size: 50;
+}
+
+.mEditIcon{
+    font-size: 60;
+    background-color: transparent;
+
+}
+
+.mWatchees{
+    vertical-align:top;
+    background-color: rgb(209, 233, 255);
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 0%;
+    text-align: center;
+    border-radius: 5px;
+  }
+
+.mJobs{
+    vertical-align:top;
+    margin-top: 0%;
+    background-color: rgb(187, 199, 255);
+    width: 90%;
+    margin-left: 5%;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 20%;
+}
+
+
+.mFollowBtn{
+    margin-left: 10px;
+    width: 200px;
+    padding: 10px;
+    font-size: 30px;
+    background-color: rgb(30, 211, 75);
+    border: none;
+    border-radius: 10px;
+}
+
+
+.mUnFollowBtn{
+    margin-left: 10px;
+    width: 200px;
+    padding: 10px;
+    font-size: 30px;
+    background-color: rgb(240, 226, 39);
+    border: none;
+    border-radius: 10px;
+}
+
+.mOrangeTxt{
+    color:rgb(255, 136, 0);
+    font-size: 40px;
+}
+
+
+.mWatchees{
+    margin-left: 10%;
+    vertical-align:top;
+    background-color: rgb(230, 243, 255);
+    width: 80%;
+    display:inline-block;
+    margin-top: 0%;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom : 50px;
+}
+
+.mJob{
+    margin-left: 10%;
+    vertical-align:top;
+    margin-top: 0%;
+    background-color: rgb(225, 231, 255);
+    width: 80%;
+    display:inline-block;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom : 50px;
+}

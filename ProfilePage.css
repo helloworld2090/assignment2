@@ -1,0 +1,141 @@
+.main {
+    background: rgba(235, 235, 235, 0.904);
+    display: inline;
+}
+.profileImg{
+    width: 15%;
+    margin-left: 25%;
+    border-radius: 10px;
+    margin-Top: 5%;
+    display: inline-block;
+
+}
+.tableFrame{
+    display: inline-block;
+    margin-left: 10%;
+    padding-top: 5%;
+    position: absolute;
+}
+
+.profile {
+    border: 2px solid rgb(189, 189, 189);
+    border-radius: 10px;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+    text-align: center;
+    min-width: 600px;
+    margin-bottom: 5%;
+}
+
+.updateBtns {
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.followBtn {
+    margin-left: 5%;
+}
+.UnfollowBtn{
+    margin-left: 5%;
+
+}
+
+.watcherSection{
+    background-color: rgba(238, 238, 238, 0.699);
+}
+
+.postingsCreatedSection{
+    background-color: rgba(211, 211, 211, 0.699);
+}
+
+.watcheeUsers{
+    background-color: rgba(218, 255, 255, 0.699);
+}
+
+.UpdateInput{
+    max-width: 50%;
+    margin-left: 25%;
+}
+
+.UpdateInputImg{
+    margin-top: 1%;
+
+}
+
+.updateBtn{
+    margin-top: 1%;
+}
+
+.updateBtnImg{
+    margin-top: 3%; 
+
+}
+
+.form-group{
+    margin-top: -2%;
+    margin-bottom: 5%;
+}
+
+.updateSection{
+    margin-top: -10px;
+    background-color: rgba(238, 238, 238, 0.904);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.incorrectPassword{
+    color:red;
+}
+
+.required{
+    color:rgb(255, 0, 0);
+}
+.profileUpdated{
+    color:rgb(0, 168, 0)
+}
+
+.greenTxt{
+    color:rgb(0, 168, 0)
+}
+
+.OrangeTxt{
+    color:rgb(255, 136, 0)
+}
+
+.offlineMode {
+    color:red;
+    margin-top: -10px
+  }
+
+
+
+.watchees{
+    vertical-align:top;
+    background-color: rgb(236, 247, 255);
+    width: 49%;
+    display:inline-block;
+    margin-left: 1%;
+    margin-top: 0%;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom : 50px;
+
+}
+
+.jobs{
+    vertical-align:top;
+    margin-top: 0%;
+    background-color: rgb(225, 231, 255);
+    width: 49%;
+    display:inline-block;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom : 50px;
+}
+
+.divider{
+    background-color: rgb(0, 21, 114);
+    height: 2px;
+    margin-bottom: 5%;
+}

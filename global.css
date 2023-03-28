@@ -1,0 +1,161 @@
+/* base styles, feel free to edit */
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial;
+}
+
+.form-control {
+    color:rgb(235, 117, 21);
+    width: 80%;
+}
+
+
+.form-control {
+    width: 10%;
+    display: inline;
+    margin-left: -10%;
+    min-width: 80px;
+    max-width: 400px;
+    margin-top: 2%;
+}
+
+
+.outerBox{
+    border: 20px;
+    outline: 1px solid rgba(0, 140, 221, 0.904);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    height: 100%;
+    min-height: 450px;
+    border-radius: 20px;
+}
+
+.loginText{
+    margin-left: 20%;
+    display: inline;
+}
+
+.passwordText{
+    margin-left: 20%;
+    display: inline;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    background: transparent;
+    padding: 0px;
+    border-style: none;
+    margin-left: 0%;
+    width: 100%;
+    margin-top: -4%;
+    border-radius: 20px;
+}
+
+
+.mGrid-item {
+	margin-top: 0%;
+	border-style: none;
+	padding: 0px;
+	font-size: 30px;
+	text-align: center;
+	cursor: pointer;
+}
+
+.mGrid-itemSelected {
+    margin-top: 0%;
+    border-style: none;
+    padding: 0px;
+    font-size: 30px;
+    text-align: center;
+    cursor: pointer;
+    background:rgba(0, 140, 221, 0.904);
+    color:aliceblue;
+    border-top-right-radius: 20px;
+}
+
+.mGrid-itemSelected2 {
+    margin-top: 0%;
+    border-style: none;
+    padding: 0px;
+    font-size: 30px;
+    text-align: center;
+    cursor: pointer;
+    background:rgba(0, 140, 221, 0.904);
+    color:aliceblue;
+    border-top-left-radius: 20px;
+}
+
+.grid-containerSecond{
+    display: grid;
+    grid-template-columns: auto auto;
+    background: transparent;
+    padding: 0px;
+    border-style: none;
+    margin-left: 0%;
+    width: 100%;
+    margin-top: -10%;
+    border-radius: 20px;
+}
+
+.grid-container2 {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
+    margin-top: 5%;
+}
+
+.grid-containerSignUp {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
+    margin-top: -15%;
+}
+
+.grid-item2 {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+}	
+  
+#loginBtn{
+    margin-top: 5%;
+    text-align: center;
+    font-size: x-large;
+    border-radius: 15px;
+    width:150px;
+    border: none;
+    background-color:rgba(0, 140, 221, 0.904);
+}
+
+#registerBtn{
+    margin-top: 2%;
+    margin-bottom: 1%;
+    text-align: center;
+    font-size: x-large;
+    border-radius: 15px;
+    width:150px;
+    border: none;
+    background-color:rgba(0, 140, 221, 0.904);
+}
+
+
+.wrapper {
+    text-align: center;
+}
+
+.loginError {
+    text-align: center;
+    color:red;
+    margin-top: 2%;
+}
+
+
+.title{
+    text-align: center;
+    margin-top: 2%;
+}
